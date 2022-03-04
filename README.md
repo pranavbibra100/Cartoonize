@@ -1,4 +1,4 @@
-# Cartoon
+# Image/Video-to-Cartoon
 
 ## Installation
 
